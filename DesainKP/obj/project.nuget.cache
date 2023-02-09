@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "jbmWcFGqaRA2BBtrbhH3V2lhlGvzL2RFQNZh6XHAuyYu0QyLNku9xRJ8HCIQaPVz9KVJwhVkO+CjdMmBVuvEUg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\naufa\\source\\repos\\DesainKP\\DesainKP\\DesainKP.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\naufa\\.nuget\\packages\\azure.core.amqp\\1.2.0\\azure.core.amqp.1.2.0.nupkg.sha512",
+    "C:\\Users\\naufa\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}
